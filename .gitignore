@@ -1,0 +1,4 @@
+/.metadata/
+/pagos/target/
+/pagos/target/*.class
+*.ini
